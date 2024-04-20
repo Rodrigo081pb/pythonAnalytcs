@@ -8,7 +8,7 @@ print(1.5)
 
 # tipo boleano
 
-print(true)
+# print(true)
 
 # tipo string
 

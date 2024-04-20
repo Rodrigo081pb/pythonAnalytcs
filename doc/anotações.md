@@ -10,3 +10,17 @@
 ° Código aberto, para que todos possam contribuir
 ° Codigo tão inteligível quanto inglês
 ° Adequada para tarefas diárias, e produtiva!
+
+---
+
+Interative mode
+
+Primeiro modo pra chamar o modo interativo é utilizando o comando no terminal
+
+- python
+
+e pra sair o executar exit()
+
+a outra forma
+
+python -i nomeArquivo.py
