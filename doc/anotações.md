@@ -10,3 +10,5 @@
 ° Código aberto, para que todos possam contribuir
 ° Codigo tão inteligível quanto inglês
 ° Adequada para tarefas diárias, e produtiva!
+
+algo fundamental pro código 
