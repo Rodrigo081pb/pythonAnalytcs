@@ -24,3 +24,5 @@ e pra sair o executar exit()
 a outra forma
 
 python -i nomeArquivo.py
+
+python adress
